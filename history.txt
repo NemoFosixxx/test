@@ -1,0 +1,25 @@
+    1  pwd
+    2  mkdir linux commands
+    3  cd linux command
+    4  cd linux commands
+    5  cd linux
+    6  pwd
+    7  ls
+    8  cat pets.txt
+    9  cat > pets.txt
+   10  cat pets.txt 
+   11  cat > pack.txt
+   12  cat pets.txt pack.txt > animals.txt
+   13  cat animals.txt
+   14  mv animals.txt human_friends.txt
+   15  mkdir animals
+   16  mv human_friends.txt animals/
+   17  sudo apt update
+   18  sudo apt install mysql-server
+   19  sudo systemctl status mysql
+   20  mysql --version
+   21  sudo dpkg -i package.deb
+   22  pwd
+   23  sudo dpkg -i nano_7.2-1+deb12u1_amd64.deb
+   24  sudo dpkg -r nano
+   25  history > history.txt
